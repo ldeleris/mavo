@@ -1,6 +1,12 @@
 {
 	"todo": [
-		"Quelque chose",
-		"à faire..."
+		{
+			"taskTitle": "Quelque chose",
+			"fait": true
+		},
+		{
+			"taskTitle": "à faire...",
+			"fait": false
+		}
 	]
 }
